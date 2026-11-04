@@ -1,1 +1,1 @@
-function getStatus() { return "App is healthy"; } module.exports = { getStatus };
+function getStatus() { return "App is down"; } module.exports = { getStatus };
